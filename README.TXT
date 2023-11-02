@@ -23,7 +23,7 @@ Dieses Java-Projekt wurde entwickelt, um Hotelreservierungen zu verwalten. Es er
 1. Klone dieses Repository auf deinem lokalen Computer.
 
    ```bash
-   git clone https://github.com/dein-benutzername/dein-hotelprojekt.git
+   git clone https://github.com/barry156/Hotel-reservierung-java.git
 2.Öffne das Projekt in deiner Java-Entwicklungsumgebung (z. B. Eclipse, IntelliJ IDEA oder NetBeans).
 
 3.Kompiliere und führe das Programm aus.
