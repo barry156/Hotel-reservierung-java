@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Uhrzeit
+comment0.text=\r\n\ D\u00E9crivez\ votre\ classe\ Uhrzeit\ ici.\r\n\r\n\ @author\ (votre\ nom)\r\n\ @version\ (un\ num\u00E9ro\ de\ version\ ou\ une\ date)\r\n
+comment1.params=stunde\ minute
+comment1.target=Uhrzeit(int,\ int)
+comment10.params=minute
+comment10.target=void\ minutenValidierung(int)
+comment2.params=
+comment2.target=int\ getMinute()
+comment3.params=
+comment3.target=int\ getStunde()
+comment4.params=minute
+comment4.target=void\ setMinute(int)
+comment5.params=stunde
+comment5.target=void\ setStunde(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=int\ getValueMinute()
+comment8.params=bezeichnung
+comment8.target=void\ intValidierung(int)
+comment9.params=stunde
+comment9.target=void\ stundenValidierung(int)
+numComments=11

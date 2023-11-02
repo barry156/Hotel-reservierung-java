@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\nDie\ klasse\ Patient\ enth\u00E4lt\ die\ objekte(Vorname,PatientNummer\ und\ Nachname)\ die,die\ bestandf\u00FChrung\ erm\u00F6glichen.\r\n\r\n\ @Mamadou\ siradio\ barry\ ,Naomi\ nompgang\r\n\ @version\ (04/01/2021)\r\n
+comment1.params=vorname\ nachname
+comment1.target=Person(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getVorname()
+comment3.params=
+comment3.target=java.lang.String\ getNachname()
+comment4.params=nachname
+comment4.target=void\ setNachname(java.lang.String)
+comment5.params=vorname
+comment5.target=void\ setVorname(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=bezeichnung
+comment7.target=void\ stringValidierung(java.lang.String)
+numComments=8
