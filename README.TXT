@@ -2,14 +2,14 @@
 
 Dieses Java-Projekt wurde entwickelt, um Hotelreservierungen zu verwalten. Es ermöglicht das Speichern von Reservierungen in einer Liste und bietet somit eine einfache und benutzerfreundliche Lösung für Reservierungsvorgänge im Hotelbereich.
 
-## Projektziele
+# Projektziele
 
 - Erfassen von Hotelreservierungen.
 - Effiziente Verwaltung der Liste von Reservierungen.
 - Bereitstellung eines Beispiels für die objektorientierte Programmierung in Java.
 - Erleichtern des Einstiegs in die Welt von Java für Anfänger.
 
-## Funktionen
+# Funktionen
 
 - Hinzufügen neuer Reservierungen.
 - Anzeigen der Liste der erfassten Reservierungen.
@@ -18,7 +18,7 @@ Dieses Java-Projekt wurde entwickelt, um Hotelreservierungen zu verwalten. Es er
 - Verwalten von Kunden- und Zimmerinformationen.
 - Verwendung von Konzepten der objektorientierten Programmierung zur Strukturierung des Codes.
 
-## Verwendung des Projekts
+# Verwendung des Projekts
 
 1. Klone dieses Repository auf deinem lokalen Computer.
 
